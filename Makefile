@@ -1,3 +1,3 @@
 number:number.cpp
-	g++ --std=c++11 number.cpp -o number -lwiringPi
+	g++ --std=c++11 main.cpp -o number -lwiringPi
 	./number
