@@ -1,4 +1,3 @@
-#include <iostream>
 #include <wiringPi.h>
 
 struct ledcode
